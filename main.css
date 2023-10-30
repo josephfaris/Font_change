@@ -1,0 +1,46 @@
+.porject {
+    display: flex;
+    justify-content: center;
+
+
+}
+textarea {
+    width: 400px;
+    height: 500px;
+    font-size: 25px;
+}
+.font {
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    margin-left: 80px;
+    color: white;
+    font-size: 25px;
+
+}
+.butto{
+    margin-top: 20px;
+    text-align: center;
+
+}
+.butto button {
+    width: 200px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    
+}
+.butto_4 {
+    font-family: 'ZCOOL XiaoWei', sans-serif; 
+}
+.butto_3 {
+    font-family: 'Shadows Into Light', cursive;
+}
+.butto_2{
+    font-family: 'Wallpoet', sans-serif;
+}
+.butto_1 {
+    font-family: 'Lobster', sans-serif;
+
+}
